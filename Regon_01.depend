@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1631119422 source:c:\users\jakub.kowalczyk\desktop\c++\regon_01\main.cpp
+	"kontener.h"
+	<cstdlib>
+
+1631084975 c:\users\jakub.kowalczyk\desktop\c++\regon_01\kontener.h
+	"dane.h"
+
+1631119059 c:\users\jakub.kowalczyk\desktop\c++\regon_01\dane.h
+	<iostream>
+	<string>
+	<fstream>
+
+1631119132 source:c:\users\jakub.kowalczyk\desktop\c++\regon_01\kontener.cpp
+	"kontener.h"
+	"dane.h"
+
+1631118969 source:c:\users\jakub.kowalczyk\desktop\c++\regon_01\dane.cpp
+	"dane.h"
+
